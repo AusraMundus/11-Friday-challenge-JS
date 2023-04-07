@@ -1,5 +1,3 @@
-console.clear();
-
 /*
 5. Parašyti f-ją, kuri nustatytų ar du paduodami argumentai yra lygūs. Gražiname true arba false
 
