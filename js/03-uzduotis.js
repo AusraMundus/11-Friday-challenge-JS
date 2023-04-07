@@ -18,3 +18,8 @@ function basketballPoints(baudos, dvitaskiai, tritaskiai) {
 console.log(basketballPoints(5, 25, 10));
 console.log(basketballPoints(1, 1, 1));
 console.log(basketballPoints(10, 20, 5));
+
+const baudos = 5;
+const dvitaskiai = 25;
+const tritaskiai = 10;
+console.log(`Bendra surinkta komandos taškų suma yra ${basketballPoints(baudos, dvitaskiai, tritaskiai)}.`);

@@ -16,3 +16,6 @@ function addition(skaicius) {
 console.log(addition(0));
 console.log(addition(9));
 console.log(addition(-3));
+
+const a = 0;
+console.log(`Skaičius ${a} padidinamas vienu vienetu ir gaunamas rezultatas: ${addition(a)}.`);

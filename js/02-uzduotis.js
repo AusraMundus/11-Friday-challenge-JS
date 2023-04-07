@@ -16,3 +16,6 @@ function howManySeconds(hours) {
 console.log(howManySeconds(2));
 console.log(howManySeconds(10));
 console.log(howManySeconds(24));
+
+const hours = 2;
+console.log(`${hours} valandos yra ${howManySeconds(hours)} sekundės.`);
